@@ -1,0 +1,5 @@
+#!name=Local Hostname 4 Real IP
+#!desc=Let Surge handle Local Hostname 4 Real Ip (Use in SMB)
+
+[General]
+always-real-ip = %APPEND% , reparobabe, reparowokingbabe, reparominibabe
